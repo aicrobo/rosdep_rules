@@ -1,0 +1,6 @@
+aic_msgs:
+  debian: [ros-kinetic-aic-msgs]
+  ubuntu: [ros-kinetic-aic-msgs]
+aic_driver_core:
+  debian: [ros-kinetic-aic-driver-core]
+  ubuntu: [ros-kinetic-aic-driver-core]
