@@ -4,3 +4,18 @@ aic_msgs:
 aic_driver_core:
   debian: [ros-kinetic-aic-driver-core]
   ubuntu: [ros-kinetic-aic-driver-core]
+mr_controller:
+  debian: [ros-kinetic-mr-controller]
+  ubuntu: [ros-kinetic-mr-controller]
+aic_voice:
+  debian: [ros-kinetic-aic-voice]
+  ubuntu: [ros-kinetic-aic-voice]
+mr_gui:
+  debian: [ros-kinetic-mr-gui]
+  ubuntu: [ros-kinetic-mr-gui]
+robot_task_center:
+  debian: [ros-kinetic-robot-task-center]
+  ubuntu: [ros-kinetic-robot-task-center]
+mr_gui_v2:
+  debian: [ros-kinetic-mr-gui-v2]
+  ubuntu: [ros-kinetic-mr-gui-v2]
