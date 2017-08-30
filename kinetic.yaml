@@ -19,3 +19,18 @@ robot_task_center:
 mr_gui_v2:
   debian: [ros-kinetic-mr-gui-v2]
   ubuntu: [ros-kinetic-mr-gui-v2]
+aic_nav_core:
+  debian: [ros-kinetic-aic-nav-core]
+  ubuntu: [ros-kinetic-aic-nav-core]
+aic_localization:
+  debian: [ros-kinetic-aic-localization]
+  ubuntu: [ros-kinetic-aic-localization]
+aic_move_base:
+  debian: [ros-kinetic-aic-move-base]
+  ubuntu: [ros-kinetic-aic-move-base]
+aic_local_planner:
+  debian: [ros-kinetic-aic-local-planner]
+  ubuntu: [ros-kinetic-aic-local-planner]
+aic_global_planner:
+  debian: [ros-kinetic-aic-global-planner]
+  ubuntu: [ros-kinetic-aic-global-planner]
