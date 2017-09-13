@@ -22,6 +22,9 @@ mr_gui_v2:
 aic_slam:
   debian: [ros-kinetic-aic-slam]
   ubuntu: [ros-kinetic-aic-slam]
+aic_map_server:
+  debian: [ros-kinetic-aic-map-server]
+  ubuntu: [ros-kinetic-aic-map-server]
 aic_nav_core:
   debian: [ros-kinetic-aic-nav-core]
   ubuntu: [ros-kinetic-aic-nav-core]
