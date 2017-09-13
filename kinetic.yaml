@@ -34,3 +34,9 @@ aic_local_planner:
 aic_global_planner:
   debian: [ros-kinetic-aic-global-planner]
   ubuntu: [ros-kinetic-aic-global-planner]
+arbotix_msgs:
+  debian: [ros-kinetic-arbotix-msgs]
+  ubuntu: [ros-kinetic-arbotix-msgs]
+arbotix_python:
+  debian: [ros-kinetic-arbotix-python]
+  ubuntu: [ros-kinetic-arbotix-python]
