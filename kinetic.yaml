@@ -19,6 +19,9 @@ robot_task_center:
 mr_gui_v2:
   debian: [ros-kinetic-mr-gui-v2]
   ubuntu: [ros-kinetic-mr-gui-v2]
+aic_slam:
+  debian: [ros-kinetic-aic-slam]
+  ubuntu: [ros-kinetic-aic-slam]
 aic_nav_core:
   debian: [ros-kinetic-aic-nav-core]
   ubuntu: [ros-kinetic-aic-nav-core]
@@ -40,3 +43,15 @@ arbotix_msgs:
 arbotix_python:
   debian: [ros-kinetic-arbotix-python]
   ubuntu: [ros-kinetic-arbotix-python]
+aic_leg_tracker:
+  debian: [ros-kinetic-aic-leg-tracker]
+  ubuntu: [ros-kinetic-aic-leg-tracker]
+aic_lidar_follow_me:
+  debian: [ros-kinetic-aic-lidar-follow-me]
+  ubuntu: [ros-kinetic-aic-lidar-follow-me]
+aic_obstacle_detect:
+  debian: [ros-kinetic-aic-obstacle-detect]
+  ubuntu: [ros-kinetic-aic-obstacle-detect]
+aic_obs_avoid_strategy:
+  debian: [ros-kinetic-aic-obs-avoid-strategy]
+  ubuntu: [ros-kinetic-aic-obs-avoid-strategy]
