@@ -1,60 +1,67 @@
-aic_msgs:
-  debian: [ros-kinetic-aic-msgs]
-  ubuntu: [ros-kinetic-aic-msgs]
 aic_driver_core:
   debian: [ros-kinetic-aic-driver-core]
   ubuntu: [ros-kinetic-aic-driver-core]
-mr_controller:
-  debian: [ros-kinetic-mr-controller]
-  ubuntu: [ros-kinetic-mr-controller]
-aic_voice:
-  debian: [ros-kinetic-aic-voice]
-  ubuntu: [ros-kinetic-aic-voice]
-mr_gui:
-  debian: [ros-kinetic-mr-gui]
-  ubuntu: [ros-kinetic-mr-gui]
-robot_task_center:
-  debian: [ros-kinetic-robot-task-center]
-  ubuntu: [ros-kinetic-robot-task-center]
-mr_gui_v2:
-  debian: [ros-kinetic-mr-gui-v2]
-  ubuntu: [ros-kinetic-mr-gui-v2]
-aic_slam:
-  debian: [ros-kinetic-aic-slam]
-  ubuntu: [ros-kinetic-aic-slam]
-aic_map_server:
-  debian: [ros-kinetic-aic-map-server]
-  ubuntu: [ros-kinetic-aic-map-server]
-aic_nav_core:
-  debian: [ros-kinetic-aic-nav-core]
-  ubuntu: [ros-kinetic-aic-nav-core]
-aic_localization:
-  debian: [ros-kinetic-aic-localization]
-  ubuntu: [ros-kinetic-aic-localization]
-aic_move_base:
-  debian: [ros-kinetic-aic-move-base]
-  ubuntu: [ros-kinetic-aic-move-base]
-aic_local_planner:
-  debian: [ros-kinetic-aic-local-planner]
-  ubuntu: [ros-kinetic-aic-local-planner]
 aic_global_planner:
   debian: [ros-kinetic-aic-global-planner]
   ubuntu: [ros-kinetic-aic-global-planner]
-arbotix_msgs:
-  debian: [ros-kinetic-arbotix-msgs]
-  ubuntu: [ros-kinetic-arbotix-msgs]
-arbotix_python:
-  debian: [ros-kinetic-arbotix-python]
-  ubuntu: [ros-kinetic-arbotix-python]
 aic_leg_tracker:
   debian: [ros-kinetic-aic-leg-tracker]
   ubuntu: [ros-kinetic-aic-leg-tracker]
 aic_lidar_follow_me:
   debian: [ros-kinetic-aic-lidar-follow-me]
   ubuntu: [ros-kinetic-aic-lidar-follow-me]
-aic_obstacle_detect:
-  debian: [ros-kinetic-aic-obstacle-detect]
-  ubuntu: [ros-kinetic-aic-obstacle-detect]
+aic_local_planner:
+  debian: [ros-kinetic-aic-local-planner]
+  ubuntu: [ros-kinetic-aic-local-planner]
+aic_localization:
+  debian: [ros-kinetic-aic-localization]
+  ubuntu: [ros-kinetic-aic-localization]
+aic_map_server:
+  debian: [ros-kinetic-aic-map-server]
+  ubuntu: [ros-kinetic-aic-map-server]
+aic_move_base:
+  debian: [ros-kinetic-aic-move-base]
+  ubuntu: [ros-kinetic-aic-move-base]
+aic_msgs:
+  debian: [ros-kinetic-aic-msgs]
+  ubuntu: [ros-kinetic-aic-msgs]
+aic_nav_core:
+  debian: [ros-kinetic-aic-nav-core]
+  ubuntu: [ros-kinetic-aic-nav-core]
 aic_obs_avoid_strategy:
   debian: [ros-kinetic-aic-obs-avoid-strategy]
   ubuntu: [ros-kinetic-aic-obs-avoid-strategy]
+aic_obstacle_detect:
+  debian: [ros-kinetic-aic-obstacle-detect]
+  ubuntu: [ros-kinetic-aic-obstacle-detect]
+aic_rviz:
+  debian: [ros-kinetic-aic-rviz]
+  ubuntu: [ros-kinetic-aic-rviz]
+aic_sdk:
+  debian: [ros-kinetic-aic-sdk]
+  ubuntu: [ros-kinetic-aic-sdk]
+aic_slam:
+  debian: [ros-kinetic-aic-slam]
+  ubuntu: [ros-kinetic-aic-slam]
+aic_voice:
+  debian: [ros-kinetic-aic-voice]
+  ubuntu: [ros-kinetic-aic-voice]
+mr_controller:
+  debian: [ros-kinetic-mr-controller]
+  ubuntu: [ros-kinetic-mr-controller]
+mr_gui:
+  debian: [ros-kinetic-mr-gui]
+  ubuntu: [ros-kinetic-mr-gui]
+mr_gui_v2:
+  debian: [ros-kinetic-mr-gui-v2]
+  ubuntu: [ros-kinetic-mr-gui-v2]
+robot_task_center:
+  debian: [ros-kinetic-robot-task-center]
+  ubuntu: [ros-kinetic-robot-task-center]
+arbotix_msgs:
+  debian: [ros-kinetic-arbotix-msgs]
+  ubuntu: [ros-kinetic-arbotix-msgs]
+arbotix_python:
+  debian: [ros-kinetic-arbotix-python]
+  ubuntu: [ros-kinetic-arbotix-python]
+
