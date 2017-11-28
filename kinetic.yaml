@@ -64,4 +64,10 @@ arbotix_msgs:
 arbotix_python:
   debian: [ros-kinetic-arbotix-python]
   ubuntu: [ros-kinetic-arbotix-python]
+gui_ft210:
+  debian: [ros-kinetic-gui-ft210]
+  ubuntu: [ros-kinetic-gui-ft210]
+gui_wt210:
+  debian: [ros-kinetic-gui-wt210]
+  ubuntu: [ros-kinetic-gui-wt210]
 
