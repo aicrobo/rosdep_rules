@@ -46,12 +46,12 @@ aic_slam:
 aic_voice:
   debian: [ros-kinetic-aic-voice]
   ubuntu: [ros-kinetic-aic-voice]
+aicmodel_base:
+  debian: [ros-kinetic-aicmodel-base]
+  ubuntu: [ros-kinetic-aicmodel-base]
 aicmodel_ft2_1:
   debian: [ros-kinetic-aicmodel-ft2-1]
   ubuntu: [ros-kinetic-aicmodel-ft2-1]
-aicmodel_sensor:
-  debian: [ros-kinetic-aicmodel-sensor]
-  ubuntu: [ros-kinetic-aicmodel-sensor]
 aicmodel_wt2_1:
   debian: [ros-kinetic-aicmodel-wt2-1]
   ubuntu: [ros-kinetic-aicmodel-wt2-1]
