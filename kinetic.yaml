@@ -55,6 +55,9 @@ aicmodel_sensor:
 aicmodel_wt2_1:
   debian: [ros-kinetic-aicmodel-wt2-1]
   ubuntu: [ros-kinetic-aicmodel-wt2-1]
+aictool_odom_calibrator:
+  debian: [ros-kinetic-aictool-odom-calibrator]
+  ubuntu: [ros-kinetic-aictool-odom-calibrator]
 mr_controller:
   debian: [ros-kinetic-mr-controller]
   ubuntu: [ros-kinetic-mr-controller]
