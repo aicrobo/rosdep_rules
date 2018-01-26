@@ -49,9 +49,30 @@ aic_voice:
 aicmodel_base:
   debian: [ros-kinetic-aicmodel-base]
   ubuntu: [ros-kinetic-aicmodel-base]
+aicmodel_d1_1:
+  debian: [ros-kinetic-aicmodel-d1-1]
+  ubuntu: [ros-kinetic-aicmodel-d1-1]
+aicmodel_d2_1:
+  debian: [ros-kinetic-aicmodel-d2-1]
+  ubuntu: [ros-kinetic-aicmodel-d2-1]
 aicmodel_ft2_1:
   debian: [ros-kinetic-aicmodel-ft2-1]
   ubuntu: [ros-kinetic-aicmodel-ft2-1]
+aicmodel_ft2_1_1:
+  debian: [ros-kinetic-aicmodel-ft2-1-1]
+  ubuntu: [ros-kinetic-aicmodel-ft2-1-1]
+aicmodel_g1_1:
+  debian: [ros-kinetic-aicmodel-g1-1]
+  ubuntu: [ros-kinetic-aicmodel-g1-1]
+aicmodel_wt1_1:
+  debian: [ros-kinetic-aicmodel-wt1-1]
+  ubuntu: [ros-kinetic-aicmodel-wt1-1]
+aicmodel_wt1_2:
+  debian: [ros-kinetic-aicmodel-wt1-2]
+  ubuntu: [ros-kinetic-aicmodel-wt1-2]
+aicmodel_wt1_3:
+  debian: [ros-kinetic-aicmodel-wt1-3]
+  ubuntu: [ros-kinetic-aicmodel-wt1-3]
 aicmodel_wt2_1:
   debian: [ros-kinetic-aicmodel-wt2-1]
   ubuntu: [ros-kinetic-aicmodel-wt2-1]
