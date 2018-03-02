@@ -43,6 +43,9 @@ aic_sdk:
 aic_slam:
   debian: [ros-kinetic-aic-slam]
   ubuntu: [ros-kinetic-aic-slam]
+aic_task_center:
+  debian: [ros-kinetic-aic-task-center]
+  ubuntu: [ros-kinetic-aic-task-center]
 aic_voice:
   debian: [ros-kinetic-aic-voice]
   ubuntu: [ros-kinetic-aic-voice]
