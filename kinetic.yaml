@@ -4,6 +4,9 @@ aic_driver_core:
 aic_global_planner:
   debian: [ros-kinetic-aic-global-planner]
   ubuntu: [ros-kinetic-aic-global-planner]
+aic_gui_base:
+  debian: [ros-kinetic-aic-gui-base]
+  ubuntu: [ros-kinetic-aic-gui-base]
 aic_leg_tracker:
   debian: [ros-kinetic-aic-leg-tracker]
   ubuntu: [ros-kinetic-aic-leg-tracker]
